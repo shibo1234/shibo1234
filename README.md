@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shibo1234
-- 👀 I’m interested in Nothing
-- 🌱 I’m currently learning Everythubg
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Something
 
 <!---
