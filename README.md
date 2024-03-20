@@ -24,6 +24,6 @@ You can click the Preview link to take a look at your changes.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
-![Demo Animation](https://example.com/path/to/your/demo.gif "Demo Title")
+
 
 
